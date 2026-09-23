@@ -120,6 +120,116 @@ characters = [
         "Magic_range_DPS": 830,
         "Magic_resist": 700,
         "Physical_resist": 670
+    },
+     {
+        "Name": "Demon Hunter",
+        "Level": 58,
+        "Health": 5800,
+        "Phy_melee_DPS": 1100,
+        "Phy_range_DPS": 250,
+        "Magic_melee_DPS": 650,
+        "Magic_range_DPS": 400,
+        "Magic_resist": 750,
+        "Physical_resist": 320
+    },
+    {
+        "Name": "Monk",
+        "Level": 53,
+        "Health": 5000,
+        "Phy_melee_DPS": 1250,
+        "Phy_range_DPS": 100,
+        "Magic_melee_DPS": 450,
+        "Magic_range_DPS": 300,
+        "Magic_resist": 800,
+        "Physical_resist": 410
+    },
+    {
+        "Name": "Evoker",
+        "Level": 60,
+        "Health": 4900,
+        "Phy_melee_DPS": 200,
+        "Phy_range_DPS": 150,
+        "Magic_melee_DPS": 750,
+        "Magic_range_DPS": 1250,
+        "Magic_resist": 1050,
+        "Physical_resist": 900
+    },
+    {
+        "Name": "Necromancer",
+        "Level": 57,
+        "Health": 4000,
+        "Phy_melee_DPS": 150,
+        "Phy_range_DPS": 100,
+        "Magic_melee_DPS": 850,
+        "Magic_range_DPS": 1650,
+        "Magic_resist": 500,
+        "Physical_resist": 600
+    },
+    {
+        "Name": "Berserker",
+        "Level": 56,
+        "Health": 7200,
+        "Phy_melee_DPS": 1350,
+        "Phy_range_DPS": 200,
+        "Magic_melee_DPS": 100,
+        "Magic_range_DPS": 0,
+        "Magic_resist": 1300,
+        "Physical_resist": 940
+    },
+    {
+        "Name": "Assassin",
+        "Level": 27,
+        "Health": 1100,
+        "Phy_melee_DPS": 500,
+        "Phy_range_DPS": 170,
+        "Magic_melee_DPS": 150,
+        "Magic_range_DPS": 50,
+        "Magic_resist": 200,
+        "Physical_resist": 100
+    },
+    {
+        "Name": "Templar",
+        "Level": 15,
+        "Health": 900,
+        "Phy_melee_DPS": 160,
+        "Phy_range_DPS": 0,
+        "Magic_melee_DPS": 200,
+        "Magic_range_DPS": 160,
+        "Magic_resist": 102,
+        "Physical_resist": 52
+    },
+    {
+        "Name": "Elementalist",
+        "Level": 70,
+        "Health": 4600,
+        "Phy_melee_DPS": 100,
+        "Phy_range_DPS": 150,
+        "Magic_melee_DPS": 950,
+        "Magic_range_DPS": 1450,
+        "Magic_resist": 1150,
+        "Physical_resist": 900
+    },
+    {
+        "Name": "Bard",
+        "Level": 32,
+        "Health": 1400,
+        "Phy_melee_DPS": 350,
+        "Phy_range_DPS": 700,
+        "Magic_melee_DPS": 450,
+        "Magic_range_DPS": 850,
+        "Magic_resist": 300,
+        "Physical_resist": 560
+    },
+    {
+        "Name": "Dark Ranger",
+        "Level": 9,
+        "Health": 860,
+        "Phy_melee_DPS": 120,
+        "Phy_range_DPS": 500,
+        "Magic_melee_DPS": 170,
+        "Magic_range_DPS": 234,
+        "Magic_resist": 85,
+        "Physical_resist": 68
     }
 ]
 
